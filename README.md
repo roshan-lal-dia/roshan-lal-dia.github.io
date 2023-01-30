@@ -3,6 +3,6 @@
 
 ### Maybe some blogs
 
-##Don't take the contents seriously
+## Don't take the contents seriously
 
-##Own code someday✨
+## Own code someday✨
